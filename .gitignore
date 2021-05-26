@@ -1,0 +1,33 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+dtswm.cloud.zuul/
+dtswm-cloud-admin/
+dtswm-cloud-core/
+dtswm-cloud-job/
+dtswm-cloud-push/
+dtswm-cloud-server-config/
+dtswm-cloud-server-eureka/
+dtswm-cloud-user/
+### STS ###
+.x`
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### JRebel ###
+rebel.xml
+
+### MAC ###
+.DS_Store
+
+### Other ###
+logs/
+temp/
